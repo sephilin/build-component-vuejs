@@ -1,0 +1,26 @@
+{
+  "name": "build-component-vuejs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "npx vue-cli-service build --target wc --name time-vue src/time-vue.vue",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@vue/cli": "^4.4.6",
+    "@vue/cli-service": "^4.4.6",
+    "moment": "^2.27.0",
+    "vue": "^2.6.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sephilin/build-component-vuejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sephilin/build-component-vuejs/issues"
+  },
+  "homepage": "https://github.com/sephilin/build-component-vuejs#readme"
+}
