@@ -10,6 +10,7 @@
   "devDependencies": {
     "@vue/cli": "^4.4.6",
     "@vue/cli-service": "^4.4.6",
+    "core-js": "^3.6.5",
     "moment": "^2.27.0",
     "vue": "^2.6.11"
   },
